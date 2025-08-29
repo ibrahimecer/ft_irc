@@ -29,8 +29,6 @@ irc/
 │ └── Channel.hpp
 │ └── Channel.cpp
 
-yaml
-Kodu kopyala
 
 ---
 
